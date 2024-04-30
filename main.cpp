@@ -1,5 +1,5 @@
 /*
-  Parke Lovett
+  Parke
   11/10/2022
   Buffer Gang
   This program adds 2 numbers while protecting against buffer overflow vulnerabilities
